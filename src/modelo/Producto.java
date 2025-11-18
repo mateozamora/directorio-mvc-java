@@ -5,7 +5,7 @@ public class Producto {
     private String sku;
     private int cantidad;
     private double precio;
-
+  
     public Producto(String nombre, String sku, int cantidad, double precio) {
         this.nombre = nombre;
         this.sku = sku;
