@@ -5,7 +5,6 @@ public class Producto {
     private String sku;
     private int cantidad;
     private double precio;
-    private static int contadorProductos = 0;
     private String color;
 
     public Producto(String nombre, String sku, int cantidad, double precio) {
